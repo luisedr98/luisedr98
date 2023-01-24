@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 I am a developer who is passionate about the web development. In this site can see my projects.
 
 👨🏽‍💻 I’m learning all time!
+
 ⚡ Fun fact: I love listening to music and watching series.
