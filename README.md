@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Luis Dominguez 
+### Hola! 👋 Mi nombre es Luis Dominguez 
 
 <!--
 **luisedr98/luisedr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a developer who is passionate about the web development. In this site can see my projects.
+Soy desarrollador, amante del desarrollo web y de la ingeniería de software.
 
-* 👨🏽‍💻 I’m learning all time!
+* 👨🏽‍💻 ¡Estoy aprendiendo algo nuevo todos los dias!
 
-* ⚡ Fun fact: I love listening to music and watching series.
+* ⚡ Hobbies: Escuchar música y ver series.
